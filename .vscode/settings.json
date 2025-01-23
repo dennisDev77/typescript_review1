@@ -3,5 +3,6 @@
         "backend/node_modules": true,
         "backend/package-lock.json": true,
         "backend/tsconfig.json": true,
+        // "backend/tsconfig.json": true,
     }
 }
