@@ -3,6 +3,16 @@
         "backend/node_modules": true,
         "backend/package-lock.json": true,
         "backend/tsconfig.json": true,
-        "backend": true,
+        "backend": false,
+        "frontend/src/assets": true,
+        "frontend/public": true,
+        "frontend/node_modules": true,
+        "frontend/.gitignore": true,
+        "frontend/eslint.config.js": true,
+        "frontend/tsconfig.app.json": true,
+        "frontend/tsconfig.json": true,
+        "frontend/vite.config.ts": true,
+        "frontend/tsconfig.node.json": true,
+        "frontend/package-lock.json": true,
     }
 }
