@@ -1,15 +1,7 @@
 {
     "files.exclude": {
-        //Ocultando arquivos do backend
         "backend/node_modules": true,
-        "backend": true,
         "backend/package-lock.json": true,
-        "backend/dist": true,
         "backend/tsconfig.json": true,
-        
-        //Ocultando arquivos do frontend
-        "frontend/node_modules": true,
-        "frontend/package-lock.json": true,
-        "frontend/eslint.config.js": true,
     }
 }
